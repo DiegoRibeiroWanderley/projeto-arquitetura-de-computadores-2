@@ -1,10 +1,7 @@
 # ETAPA 1
 ## ULA da Mic-1
 
-Para conseguir executar o programa, é importante estar no diretório do projeto e ter dois arquivos:
-
-1. entradas.txt: Arquivo com as entradas para a ULA
-2. logs.txt: Arquivo em branco que será preenchido com os logs
+Para conseguir executar o programa, é importante estar no diretório de `projeto.c` e ter o arquivo `entradas.txt` com as entradas para a ULA
 
 Após isso rode no terminal:
 
